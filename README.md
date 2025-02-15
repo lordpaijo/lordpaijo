@@ -12,7 +12,7 @@
 
 # 📊 GitHub Stats:
 ### 🏆 Streaks
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lordpaijo&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=lordpaijo&theme=gruvbox_light&hide_border=false)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=lordpaijo&limit=5&theme=gruvbox_light&combine_all_yearly_contributions=true)
