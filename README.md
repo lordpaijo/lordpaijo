@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>   🔭 I’m currently working on my life as a programmer.<br><br>    🌱 I’m currently learning C and Rust!<br><br>    👯 I’m looking to collaborate on nothing, not yet.<br><br>    🤝 I’m looking for help with my Rust, Paper, and Scissors project.<br><br>    💬 Ask me about how not to get a job.<br><br>    📫 How to reach me iyanmaumakan.56@gmail.com<br><br>    ⚡ Fun fact I'm bald.<br>
+<br>   🔭 I’m currently working on my life as a programmer.<br><br>    🌱 I’m currently learning C and Rust!<br><br>    👯 I’m looking to collaborate on nothing, not yet.<br><br>    🤝 I’m looking for help with my steps of learning Rust for general purpose and hobby.<br><br>    💬 Ask me about how not to get a job.<br><br>    📫 How to reach me: iyanmaumakan.56@gmail.com<br><br>    ⚡ Fun fact I'm bald.<br>
 
 
 ## 🌐 Socials:
