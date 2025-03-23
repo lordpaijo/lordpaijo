@@ -1,6 +1,6 @@
 # 💫 About Me:
 <br>   🔭 I’m currently working on a Rust library foucesd on mathemathic issues called [`matematika.rs`](https://github.com/lordpaijo/matematika.rs).<br><br>    🌱 I’m currently learning C and Rust!<br><br>    👯 I’m looking to collaborate on nothing, not yet.<br><br>    🤝 I’m looking for help with my steps of learning Rust for general purpose and hobby.<br><br>    💬 Ask me about how not to get a job.<br><br>    📫 How to reach me: iyanmaumakan.56@gmail.com<br><br>    ⚡ Fun fact I'm bald.<br>
- 
+  
     
 ## 🌐 Socials:  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pensilpaijo) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/LordPaijo) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@LordPaijo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:iyanmaumakan.56@gmail.com) 
